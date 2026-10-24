@@ -5,6 +5,7 @@
 
 ##About Me
 -🎓I'm a first-year BTech CSE college student.
+<br>
 -💻I'm learning programing.
 -🌿Currently learning C and Python. 
 
